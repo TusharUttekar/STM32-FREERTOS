@@ -1,0 +1,4 @@
+../Core/Src/App_Task.c:16:6:Task1_Handler	24	static
+../Core/Src/App_Task.c:56:6:Task2_Handler	24	static
+../Core/Src/App_Task.c:86:6:Task3_Handler	16	static
+../Core/Src/App_Task.c:110:6:Periodic_Callback	24	static
